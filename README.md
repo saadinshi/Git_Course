@@ -51,6 +51,7 @@ To complete the exercises in this project, you will need:
    ```bash
    git clone https://github.com/your-username/Git_Course.git
 
+---
 
 ### How to Use:
 1. **Copy the entire content above** and paste it into a **README.md** file in your GitHub repository.
