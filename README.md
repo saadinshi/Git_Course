@@ -50,15 +50,3 @@ To complete the exercises in this project, you will need:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/Git_Course.git
-
----
-
-### How to Use:
-1. **Copy the entire content above** and paste it into a **README.md** file in your GitHub repository.
-2. **Replace any placeholders** like:
-   - `https://github.com/your-username/Git_Course.git`  
-   - `[Your GitHub Profile](https://github.com/your-username)`  
-3. Commit the changes to your GitHub repository.
-
-This **README.md** provides a structured overview, helping users understand your project quickly. Let me know if you need any further changes!
-
